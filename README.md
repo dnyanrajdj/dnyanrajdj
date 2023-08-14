@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit Parmar</h1>
+<h1 align="center">Hi 👋, I'm   Dnyanraj Rathod</h1>
 <p align="center"> 
     <img align="center" src="./Images/DNYANRAJ RATHOD.png" alt="LinkedIn Banner" />
 </p>
